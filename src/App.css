@@ -1,0 +1,8 @@
+.nav{
+  color: turquoise;
+  gap: 20px;
+  background-color: rgb(240, 245, 220);
+  display: flex;
+  height: fit-content;
+
+}
